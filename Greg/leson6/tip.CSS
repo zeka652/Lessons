@@ -1,0 +1,38 @@
+a{
+	display: block;
+	width: 200px;
+	height: 50px;
+	background-color: red;
+	text-decoration: none;
+	color: #bc1339;
+	text-align: center;
+	line-height: 50px;
+	text-transform: uppercase;
+}
+a:hover{
+	background-color: black;
+	font-weight: bold;
+	color: yellow;
+	background-position: right center; 
+}
+
+a:active{
+	background-color: green;
+	color: red;
+	font-weight: bold;
+}
+/*LoVeHate*/
+a:link{
+	/*background-color: red;
+	color: #9c9;*/
+}
+a:visted{
+	background-color: green;
+	font-weight: bold;
+	color: #838b75;
+}
+a:active{
+	background-color: #a369af;
+	color: #9c9;
+	font-weight: orange;
+}

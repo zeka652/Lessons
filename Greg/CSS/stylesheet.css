@@ -1,0 +1,17 @@
+div{
+	background-color:#96B91D; /*цветфона*/
+	color:#9B2020;/*цвет ткста*/
+	font-size: 25px ; /*Размер текста*/
+	font-weight: bold; /*100-900 c ifujv 100*/
+	font-style: italic; /*Курсив*/
+	font-style: oblique; /*Наклонный шрифт*/
+}
+h1{
+	color:#B23838;
+}
+span{
+	font-size:40px; /*dgfs*/
+	background-color:#050D04; /*gssg*/
+	color:#F7F2F2; /*dsrgf*/
+	font-style: normal;
+}

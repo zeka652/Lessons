@@ -1,0 +1,15 @@
+a{
+	display: block;
+	background-image: url(sprites.png);
+	width: 64px;
+	height: 64px;
+	/*background-position: -960px -320px;*/
+	/*background-position: -1920px -896px*/
+	/*background-position: -832px 320px;*/
+	/*background-position: -1536px 448px;*/
+	/*background-position: -832px 512px;*/
+	/*background-position: -1792px 1280px;*/
+	/*background-position: -512px 128px;*/
+	/*background-position: -1152px 2048px;*/
+	background-position: -832px 1472px
+}

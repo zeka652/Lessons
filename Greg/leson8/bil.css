@@ -1,0 +1,73 @@
+/**{
+	margin: 0;
+	padding: 0;
+}
+div{
+	width: 500px;
+	height: 500px;
+	position: absolute;
+}
+#box1{
+	background-color: red;
+	position: relative;
+	/*bottom: 50px;
+	right: 50px;
+	padding: 20px;
+	border: 10px solid black;*/
+}
+/*#box2{
+	background-color: black;
+	top: 0;
+	left: 0;
+}
+#box3{
+	height: 180px;
+	width: 170px;
+	background-color: #fff;
+	border: 5px solid black;
+	padding: 10px 0 0 20px;
+	display: none;
+}
+#box4{
+	background-color: green;
+	bottom: 0;
+	left: 0;
+}
+#box5{
+	background-color: orange;
+	bottom: 0;
+	right: 0;
+}
+#box6{
+	background-color: blue;
+	bottom: 110px;
+	right: 280px;
+}
+#inner{
+	background-color: yellow;
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+#box7{
+	background-color: purple;
+	left: 50px;
+	top: 0;
+}
+#box6{
+	background-color: green;
+	left: 75px;
+	top: 0;
+}*/
+a.help span{
+	display: none;
+	position: relative;
+}
+a.help:hover span{
+	display: block;
+	position: absolute;
+	top: 15px;
+	left: 10px;
+}
